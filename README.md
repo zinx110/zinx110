@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @zinx110
-- 👀 I’m interested in anime and weeb stuffs.
-- 🌱 I know frontend with react and stuffs and currently learning backend end with node.js and stuffs
-- 💞️ I’m looking to collaborate on idk, dm me and ill collaborate prly.
-- 📫 How to reach me? just email me desu >>w<< (tasdid110@gmail.com)
+[![wakatime](https://wakatime.com/badge/user/fa93ea22-c9ab-4efe-9538-651084c8a593.svg)](https://wakatime.com/@fa93ea22-c9ab-4efe-9538-651084c8a593)
 
-<!---
-zinx110/zinx110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div align="center">
+<h1> Hello! I'm zinx 🐱 </h1>
+
+![Ssuish's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinx110&count_private=true&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinx110&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Preferred Languages
+![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+  
+## Technologies Used
+![net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+
+</div>
