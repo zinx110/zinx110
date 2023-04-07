@@ -4,17 +4,16 @@
 <div align="center">
 <h1> Hello! I'm zinx 🐱 </h1>
 
-![Ssuish's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinx110&count_private=true&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinx110&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![zinx's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinx110&count_private=true&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinx110&theme=tokyonight&layout=compact&langs_count=8&hide=Shaderlab,hlsl,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Preferred Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  
+  
 ## Technologies Used
-
-
-
 </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
