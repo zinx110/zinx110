@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=180&section=header&text=zinx+|+Tasdid&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=zinx+|+Tasdid&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+zinx;I'm+mainly+doing+web+and+mobile+app+development;I'm+a+student+and+working+as+freelance+developer;I'm+interested+in+Blender+and+Unity)](https://git.io/typing-svg)
 
@@ -95,4 +95,4 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{zinx110}/count.svg" /></p>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004687&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer"/>
