@@ -44,8 +44,8 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![Mongo DB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
-![Three.js](https://img.shields.io/badge/-Three.js-0D1117?style=for-the-badge&logo=Three.js&labelColor=0D1117)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux&labelColor=0D1117)&nbsp;
+![Three.js](https://img.shields.io/badge/-Three.js-0D1117?style=for-the-badge&logo=Three.js&labelColor=0D1117)&nbsp;
 
 
 
