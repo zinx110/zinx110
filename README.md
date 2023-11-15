@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=zinx+|+Tasdid&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+zinx;I'm+mainly+doing+web+and+mobile+app+development;I'm+a+student+and+working+as+freelance+developer;I'm+interested+in+Blender+and+Unity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+zinx;I'm+mainly+doing+web+and+mobile+app+development;I'm+a+student+and+working+as+freelance+developer)](https://git.io/typing-svg)
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zinx110&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
@@ -9,7 +9,7 @@
 <!--  ./STAT -->
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=zinx110&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="zinx's github stats" /> 
-  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinx110&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlsl,shell,c#" />
+  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinx110&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlsl,shell,c#,Jupyter Notebook" />
 </div>
 
 
@@ -28,6 +28,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
 
 
 
@@ -52,11 +53,13 @@
 ### Other Skills:
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c+sharp&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=C%2B%2B&labelColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![.Net Framework](https://img.shields.io/badge/-.Net_Framework-0D1117?style=for-the-badge&logo=.net&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
+![JEST](https://img.shields.io/badge/-JEST-0D1117?style=for-the-badge&logo=JEST&labelColor=0D1117)&nbsp;
 
 ### Tools:
 
@@ -76,7 +79,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment: 
-![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=Laravel&labelColor=0D1117)&nbsp;
 
 ### Areas of Interest:
 ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
