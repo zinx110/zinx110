@@ -1,90 +1,69 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=zinx+|+Tasdid&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+zinx;I'm+mainly+doing+web+and+mobile+app+development;I'm+a+student+and+working+as+freelance+developer)](https://git.io/typing-svg)
-
 <div align="center">
-   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zinx110&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
-</div> 
+   <h1 style="color:#70a5fd; font-size: 48px;">Tasdid Hosain (Zinx)</h1>
+   <h2 style="color:#70a5fd; font-size: 28px;">Software Engineer</h2>
+</div>
 
 <!--  ./STAT -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=zinx110&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="zinx's github stats" /> 
-  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinx110&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlsl,shell,c#,Jupyter Notebook" />
+  <img height="200px" width="auto" src="https://github-readme-stats.vercel.app/api?username=zinx110&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="zinx's github stats" /> 
+  <img height="200px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinx110&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlsl,shell,c#,Jupyter Notebook" />
 </div>
-
-
-
-
 
 <!-- ./Contribution Streak  -->
 <div align="center">
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=zinx110&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="zinx | Tasdid Hossain" />
+  <img height="250px" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=zinx110&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="zinx | Tasdid Hossain" />
 </div>
 
+### Frontend:
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 30px; padding: 20px;">
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="80px" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="80px" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="80px" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="80px" />
+  <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="80px" />
+</div>
 
+### Backend:
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 30px; padding: 20px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="80px" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="80px" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="80px" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET Framework" width="80px" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="80px" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="80px" />
+</div>
 
-### Main Frameworks:
+### Mobile App:
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 30px; padding: 20px;">
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="80px" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="80px" />
+</div>
 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+### Database:
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 30px; padding: 20px;">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="80px" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="80px" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="80px" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="80px" />
+  <img src="https://skillicons.dev/icons?i=typeorm" alt="TypeORM" width="80px" />
+  <img src="https://skillicons.dev/icons?i=entityframework" alt="Entity Framework" width="80px" />
+</div>
 
+### Others:
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 30px; padding: 20px;">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="80px" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="80px" />
+  <img src="https://skillicons.dev/icons?i=cpanel" alt="CPanel" width="80px" />
+</div>
 
+### Machine Learning (Basic):
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 30px; padding: 20px;">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="Machine Learning" width="80px" />
+  <img src="https://skillicons.dev/icons?i=deeplearning" alt="Deep Learning" width="80px" />
+  <img src="https://skillicons.dev/icons?i=data" alt="Data Processing" width="80px" />
+  <img src="https://skillicons.dev/icons?i=imageprocessing" alt="Image Processing" width="80px" />
+</div>
 
-
-
-### Main skills:
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind+css&labelColor=0D1117)&nbsp;
-![SASS](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
-![Mongo DB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux&labelColor=0D1117)&nbsp;
-![Three.js](https://img.shields.io/badge/-Three.js-0D1117?style=for-the-badge&logo=Three.js&labelColor=0D1117)&nbsp;
-
-
-
-### Other Skills:
-
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c+sharp&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=C%2B%2B&labelColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
-![.Net Framework](https://img.shields.io/badge/-.Net_Framework-0D1117?style=for-the-badge&logo=.net&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
-![JEST](https://img.shields.io/badge/-JEST-0D1117?style=for-the-badge&logo=JEST&labelColor=0D1117)&nbsp;
-
-### Tools:
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-0D1117?style=for-the-badge&logo=blender&labelColor=0D1117)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=for-the-badge&logo=macos&labelColor=0D1117)&nbsp;
-![Xcode](https://img.shields.io/badge/-xcode-0D1117?style=for-the-badge&logo=xcode&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/-android%20studio-0D1117?style=for-the-badge&logo=android+studio&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-### Studying in this moment: 
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=Laravel&labelColor=0D1117)&nbsp;
-
-### Areas of Interest:
-![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
-![Svelte](https://img.shields.io/badge/-svelte-0D1117?style=for-the-badge&logo=svelte&labelColor=0D1117)&nbsp;
 
 
 
