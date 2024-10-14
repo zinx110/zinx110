@@ -16,7 +16,7 @@
 
 ### Frontend:
 <div style="display: grid; grid-template-row: repeat(auto-fill, minmax(100px, 1fr)); gap: 30px; padding: 20px;">
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="60px" /> <span style="display: flex; align-items: center;">TypeScript</span>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="60px" /> <span style="line-height: 80px; vertical-align: middle;">TypeScript</span>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="60px" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="80px" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="80px" />
