@@ -104,6 +104,7 @@
         </th>
     </tr>
     <tr>
+        <td/>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="80px" />
             <div>Firebase</div>
@@ -120,14 +121,7 @@
             <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="80px" />
             <div>MySQL</div>
         </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=typeorm-auto" alt="TypeORM" width="80px" />
-            <div>TypeORM</div>
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=entityframework" alt="Entity Framework" width="80px" />
-            <div>Entity Framework</div>
-        </td>
+        <td/>
     </tr>
     <tr>
         <th colspan="6" style="text-align: left;">
@@ -148,25 +142,7 @@
         <td/>
         <td/>
     </tr>
-    <tr>
-        <th colspan="6" style="text-align: left;">
-            <h4>Machine Learning (Basic)</h4>
-        </th>
-    </tr>
-    <tr>
-        <td/>
-        <td/>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" width="80px" />
-            <div>Tensorflow</div>
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=opencv" alt="Open CV" width="80px" />
-            <div>OpenCV</div>
-        </td>
-        <td/>
-        <td/>
-    </tr>
+
 </table>
  
 
